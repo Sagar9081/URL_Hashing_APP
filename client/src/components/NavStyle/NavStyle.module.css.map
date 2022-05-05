@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAC;EACH,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "NavStyle.module.scss"
+    ],
+    "names": [],
+    "file": "NavStyle.module.css"
+}

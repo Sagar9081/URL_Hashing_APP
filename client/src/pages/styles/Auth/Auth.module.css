@@ -1,0 +1,17 @@
+.margin {
+  margin-right: 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.custom {
+  width: 120px;
+  border: 1px solid #fff;
+}
+
+.custom:focus, .custom:hover {
+  border: 1px solid #f8c671;
+}
+/*# sourceMappingURL=Auth.module.css.map */
